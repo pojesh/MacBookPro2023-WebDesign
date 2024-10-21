@@ -1,7 +1,7 @@
 # Apple MacBook Pro 2023 Webpage
 
 
-MacBook Pro 2023 webpage frontend UI design in Figma.
+**MacBook Pro 2023** webpage frontend UI design in **Figma** .
 
 
 ## Design link
